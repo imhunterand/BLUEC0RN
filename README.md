@@ -38,3 +38,8 @@ keep the .env file under `/utils`.
 6. Attack Detection
 7. Prevention Method
 8. How AirPods Block Requests from Devices
+
+### Author
+
+- [@Imhunterand](https://www.github.com/imhunterand)
+- [@PWN0SEC](https://www.github.com/pwn0sec)
