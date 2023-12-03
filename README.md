@@ -5,7 +5,7 @@ BLUEC0RN CLI tool to hack Bluetooth devices via speaker jamming, traffic spoofin
 - Does not work on Airpods or any other bluetooth devices yet ...
 
 ## Tool Preview
-![image](https://github.com/imhunterand/BLUEC0RN/assets/109766416/63248b4e-cd6f-4d4f-9ecf-975a5f6b92db)
+![image](https://github.com/imhunterand/BLUEC0RN/assets/109766416/37416a9d-3277-4c20-b5d6-9994caf94ca4)
 
 
 ## Installation
