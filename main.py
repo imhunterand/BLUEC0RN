@@ -4,7 +4,7 @@ import asyncio
 
 from utils.logo import print_logo
 from utils.kick import _kick_
-from utils.scanner import main
+from utils.scanner import main 
 
 from rich import print
 from rich.prompt import Prompt
