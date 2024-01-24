@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 ```
 2. Install necessary packages
 ```
-paru -Sy --noconfirm --needed bluez bluez-utils
+paru -Sy --noconfirm --needed bluez bluez-utils  
 ```
 ## Environment Variables
 
