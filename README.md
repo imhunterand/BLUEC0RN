@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 2. Install necessary packages
 ```
 paru -Sy --noconfirm --needed bluez bluez-utils  
-```
+``` 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your `.env` file:
