@@ -14,7 +14,7 @@ BLUEC0RN CLI tool to hack Bluetooth devices via speaker jamming, traffic spoofin
 ```
 git clone https://github.com/imhunterand/BLUEC0RN.git
 cd BLUEC0RN
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt 
 ```
 2. Install necessary packages
 ```
