@@ -45,4 +45,4 @@ keep the .env file under `/utils`.
 - [@PWN0SEC](https://www.github.com/pwn0sec)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imhunterand/BLUEC0RN&type=Date)](https://star-history.com/#imhunterand/ApachSAL&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=imhunterand/BLUEC0RN&type=Date)](https://star-history.com/#imhunterand/BLUEC0RN&Date)
